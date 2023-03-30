@@ -1,0 +1,23 @@
+{
+  "name": "flumws.club",
+  "version": "1.0.0",
+  "description": "flumws websocket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/39726/flumws.club.git"
+  },
+  "author": "maar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/39726/flumws.club/issues"
+  },
+  "homepage": "https://github.com/39726/flumws.club#readme",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
